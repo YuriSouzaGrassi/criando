@@ -1,0 +1,30 @@
+body {
+
+}
+
+.titulo {
+    text-align: center;
+    font-size: bold;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.tipos {
+    font-size: 60px;
+    margin: 50px;
+}
+
+.justify-between {
+    justify-content: space-between;   
+}
+
+.exercicios {
+    font-size: 27px;
+    margin: 10px;
+}
+
+.linha {
+    padding: 25px 25px;
+}
